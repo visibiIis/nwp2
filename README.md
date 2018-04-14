@@ -1,11 +1,8 @@
 # nwp2
 Репозиторий никопольских программистов 
-Отдыхаю на природе
+Отдыхаю на природе.
 
-  git config --global user.email "visibilis@ukr.net"
-  git config --global user.name "visibiIis"
-
-dev
+A-NA-TA NOOO KOE GAAAA
 
 
 
