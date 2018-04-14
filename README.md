@@ -3,6 +3,9 @@
 Отдыхаю на природе
 
   git config --global user.email "visibilis@ukr.net"
-  git config --global user.name "visibilis"
+  git config --global user.name "visibiIis"
+
+dev
+
 
 
